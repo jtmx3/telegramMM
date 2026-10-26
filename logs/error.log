@@ -1,0 +1,3 @@
+2026-09-07 17:53:39 | ERROR    | errors | resolve_user failed identifier=@اليورو | exception=UsernameInvalid('Telegram says: [400 USERNAME_INVALID] - The username is invalid (caused by "contacts.ResolveUsername")')
+2026-09-07 17:53:48 | ERROR    | errors | resolve_user failed identifier=@اليورو | exception=UsernameInvalid('Telegram says: [400 USERNAME_INVALID] - The username is invalid (caused by "contacts.ResolveUsername")')
+2026-09-07 17:54:00 | ERROR    | errors | get_chat unexpected error chat_ref=-1003558073251 | exception=ValueError('Peer id invalid: -1003558073251')
